@@ -15,4 +15,7 @@
    
    < ssh -i "ubuntu.pem" ubuntu@ec2-44-202-20-223.
 
+   ![image](https://github.com/user-attachments/assets/df47b443-999d-465d-878f-804136e01e48)
+
+
 
